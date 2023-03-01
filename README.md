@@ -46,4 +46,7 @@ The tools make the man, so install not just the necessary tools, but the best to
     ```
 
 3. Learn
-````TREL: Try, Read, Evaluate, Loop-REPL
+   Buy a MAC :)
+   TREL: Try, Read, Evaluate, Loop / REPL
+   Sudo: Super user do
+   Tools make the man
