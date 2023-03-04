@@ -50,3 +50,4 @@ The tools make the man, so install not just the necessary tools, but the best to
    TREL: Try, Read, Evaluate, Loop / REPL
    Sudo: Super user do
    Tools make the man
+   <esc>:q! (vim)
