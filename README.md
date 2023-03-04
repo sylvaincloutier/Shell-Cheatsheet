@@ -47,7 +47,8 @@ The tools make the man, so install not just the necessary tools, but the best to
 
 3. Learn
    Buy a MAC :)
-   TREL: Try, Read, Evaluate, Loop / REPL
+   TREL: Try, Read, Evaluate, Loop / REPL: Read, Evaluate, Print, Loop
    Sudo: Super user do
    Tools make the man
    <esc>:q! (vim)
+   TAB to get more options
